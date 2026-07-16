@@ -1,5 +1,0 @@
-#profile-title: 🔥 Europe | Premium 321123123
-#profile-update-interval: 1
-#subscription-userinfo: expire=0; total=0; used=0
-
-vless://a198302e-b16f-4955-adf0-d83f16970294@138.16.163.121:2087?
