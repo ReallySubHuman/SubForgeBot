@@ -1,4 +1,4 @@
-#profile-title: Хуйлава ВПН
+#profile-title: Скебоб ВПН
 #profile-update-interval: 24
 #subscription-userinfo: expire=1784591999; total=0; used=0
 #profile-web-page-url: https://t.me/halyava_vpnz
