@@ -1,17 +1,15 @@
-#profile-title: Окак же хорош хуанито
+#profile-title: Пизда ВПН 🗽
 #profile-update-interval: 24
 #subscription-userinfo: expire=0; total=0; used=0
 #profile-web-page-url: https://t.me/halyava_vpnz
-#announce: Скебоб ВПН
+#announce: Ыыыыыыы окак скебоб шисят сем ыыыыыыыыыы
 
-vless://7ec37ab4-bed3-4d65-9803-e4933a63c024@ru-lemon-1.cdx-edge.com:52000?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ads.x5.ru&fp=qq&pbk=ndSxyXpSzx2SnGiRSZ6SSzVmOWVsgRMzVfqBm6PKog4&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20%5B%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%201%5D%20%D0%92%D1%81%D0%B5%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B%20%E2%80%94%20LTE
-vless://7ec37ab4-bed3-4d65-9803-e4933a63c024@ru-apple-1.cdx-edge.com:52000?flow=xtls-rprx-vision&encryption=none&security=reality&sni=ads.x5.ru&fp=chrome&pbk=ndSxyXpSzx2SnGiRSZ6SSzVmOWVsgRMzVfqBm6PKog4&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20%5B%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%202%5D%20%D0%92%D1%81%D0%B5%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B%20%E2%80%94%20LTE
-vless://7ec37ab4-bed3-4d65-9803-e4933a63c024@ru-orange-1.cdx-edge.com:52000?flow=xtls-rprx-vision&encryption=none&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=ndSxyXpSzx2SnGiRSZ6SSzVmOWVsgRMzVfqBm6PKog4&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20%5B%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%203%5D%20%D0%92%D1%81%D0%B5%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B%20%E2%80%94%20LTE
-vless://7ec37ab4-bed3-4d65-9803-e4933a63c024@ru-mango-1.cdx-edge.com:52000?flow=xtls-rprx-vision&encryption=none&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=ndSxyXpSzx2SnGiRSZ6SSzVmOWVsgRMzVfqBm6PKog4&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20%5B%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%204%5D%20LTE%20%E2%80%94%20%D0%9C%D0%A2%D0%A1
-vless://b657c904-781e-406a-9062-b0011ff80041@46.8.208.43:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=rutube.ru&fp=edge&pbk=zJPh6KpkMn0rSpoIRbmypTckWen2x-r4ZN-4SCn0MkM&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%BA%20%F0%9F%8F%B3%EF%B8%8F%20%D1%81%D0%BF%D0%B8%D1%81%D0%BA%D0%B8%20%E2%80%94%20LTE%20%20%E2%80%94%20%D0%90%D0%B2%D1%82%D0%BE
-vless://7ec37ab4-bed3-4d65-9803-e4933a63c024@papaya-1.cdx-edge.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=ndSxyXpSzx2SnGiRSZ6SSzVmOWVsgRMzVfqBm6PKog4&type=tcp&headerType=none#%F0%9F%87%AB%F0%9F%87%AE%20%5B%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%205%5D%20LTE%20%E2%80%94%20%D0%9C%D0%A2%D0%A1%2C%20%D0%9C%D0%B5%D0%B3%D0%B0%D1%84%D0%BE%D0%BD
-vless://1bb21474-3694-4c15-9a66-c756161839bc@xnodwx.artemida.live:443?encryption=none&security=reality&sni=xnodwx.artemida.live&fp=chrome&pbk=JqmkP6Fys7jN2Fu1iDJuWKVNPhlgHfy_pj1DHFVKVhw&sid=a1b2c3d4e5f6a7b8&type=xhttp&mode=auto&path=%2Fxhttp#%F0%9F%87%AA%F0%9F%87%BA%F0%9F%8F%B3%EF%B8%8F%20%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20%E2%AD%90
-vless://b0c03d71-8139-4639-bb05-e444e07a0d2b@213.219.212.105:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=eh.vk.ru&alpn=http%2F1.1&fp=qq&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%234%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20%D0%93%D0%9B%D0%A3%D0%A8%D0%98%D0%9B%D0%9A%D0%98
-vless://b0c03d71-8139-4639-bb05-e444e07a0d2b@213.219.212.24:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=eh.vk.ru&alpn=http%2F1.1&fp=qq&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%233%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20%D0%93%D0%9B%D0%A3%D0%A8%D0%98%D0%9B%D0%9A%D0%98
-vless://b0c03d71-8139-4639-bb05-e444e07a0d2b@213.219.212.30:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=eh.vk.ru&alpn=http%2F1.1&fp=qq&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20%231%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20%D0%93%D0%9B%D0%A3%D0%A8%D0%98%D0%9B%D0%9A%D0%98
-hysteria2://95c61940-2823-4665-a033-d4f2218329b6@46.8.210.209:443?security=tls&fm=%7B%7D&sni=ru1.kinotorg.net#%F0%9F%87%B7%F0%9F%87%BA%20%F0%9F%9A%80%D0%9D%D0%B5%D0%B9%D1%80%D0%BELexa%20SS-15
+vless://03446511-2806-0021-b02f-f10d2d3a33c6@2.26.147.120:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=cdn-up.perecbass.ru&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=2c5d0e9f&spx=/#🇫🇮 Финляндия #1
+
+vless://03446511-2806-4fc0-b02f-f10d2d3a33c6@5.253.66.152:443?flow=xtls-rprx-vision&type=tcp&security=reality&fp=firefox&sni=cdn-up.perecbass.ru&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=4c8d1e0f&spx=/#🇩🇪 Германия #1
+
+vless://b7644fae-c7ab-4daf-806b-0b4a22bf7e16@88.218.169.140:8451?type=grpc&mode=gun&serviceName=xyz&security=reality&fp=chrome&sni=apple.com&pbk=Q5mtL2qHRAoPEVnl9GRezCHkTrNTnvW_FL3_HQhhKDo&sid=06011ef464e3313f#🇳🇱 Нидерланды #1
+
+vless://fc3f9347-7542-483c-833c-cd561384783d@de-2.coinbridge.nl:443?type=grpc&mode=gun&serviceName=data-sync&security=reality&fp=random&sni=google.com&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&sid=d5c7f84e37e0c12d#🇩🇪 Германия #2
+
+vless://c0496281-b45a-48b7-88c8-e281f7935903@pla.allonetworks.ru:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=qq&sni=dev.max.ru&pbk=sM0zI55WTZvcPhpGauMG84bVXeKcdWlavg16JEdAQn8&sid=f69ec2803b8d#🇵🇱 Польша #1
