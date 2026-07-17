@@ -1,6 +1,0 @@
-#profile-title: Буба ВПН 🗽
-#profile-update-interval: 1
-#subscription-userinfo: expire=0; total=0; used=0
-
-vless://4ef6e1cd-4410-4dfd-b03c-aca49aebefb7@se.datanode-internal.net:443?security=reality&encryption=none&pbk=r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=abbcd128#%F0%9F%AA%BCWi-Fi%20-%20LTE%20%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%B0.%F0%9F%AA%BC
-vless://74139fb5-fd3f-4133-a34a-b1d85da7a89f@186.246.31.136:443?security=reality&encryption=none&pbk=djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=ea1058117be12087#%F0%9F%87%B7%F0%9F%87%BA%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20YouTube%20%D0%B1%D0%B5%D0%B7%20%D1%80%D0%B5%D0%BA%D0%BB%D0%B0%D0%BC%D1%8B%20%E2%9A%A1
