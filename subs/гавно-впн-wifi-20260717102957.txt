@@ -1,4 +1,4 @@
-#profile-title: Гавно ВПН | WIFI ⚙️
+#profile-title: Мамба Люимба
 #profile-update-interval: 1
 #subscription-userinfo: expire=0; total=0; used=0
 #profile-web-page-url: https://t.me/halyava_vpnz
