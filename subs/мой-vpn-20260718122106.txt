@@ -1,5 +1,0 @@
-#profile-title: Мой VPN
-#profile-update-interval: 24
-#subscription-userinfo: expire=1784591999; total=0; used=0
-
-Vless://#Ку
