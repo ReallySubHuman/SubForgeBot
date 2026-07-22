@@ -1,5 +1,5 @@
 #profile-title: Бульба VPN
-#profile-update-interval: 48
+#profile-update-interval: 666
 #subscription-userinfo: expire=1798761599; total=0; used=0
 #profile-web-page-url: https://t.me/halyava_vpnz
 #announce: Личная подписка, не делиться доступом.
