@@ -1,0 +1,10 @@
+#profile-title: Окай
+#profile-update-interval: 48
+#subscription-userinfo: expire=0; total=0; used=0
+#profile-web-page-url: https://t.me/halyava_vpnz
+
+vless://218fd696-e3a2-4c33-b397-a5f13a82969e@193.233.74.57:7443?type=grpc&security=reality&sni=www.telekom.de&fp=firefox&pbk=P5eqN_q-Vq7M8YgrTIS_yZBgWLskGKQ9hAHhW__R6js&sid=89136b6e&serviceName=grpc#%F0%9F%87%AB%F0%9F%87%AE%20FUKIFA%201
+vless://06f364d4-3d0c-4c60-84e9-a3009f1b0050@95.215.110.102:6443?type=tcp&security=reality&sni=ads.x5.ru&fp=firefox&pbk=yy8j8XpeayWzp-0sJ2fOMy9XY6KQSUhUG-fh5bq1M1k&sid=deadbeef&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%BA%20FUKIFA%202
+vless://c6f220ed-41f2-21ba-438c-80f05ebbf92a@170.168.97.5:8443?type=grpc&security=reality&sni=download.nvidia.com&fp=chrome&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&serviceName=TunService#%F0%9F%87%AA%F0%9F%87%B8%20FUKIFA%203
+vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443?type=grpc&security=reality&sni=c.primarymaster.online&fp=firefox&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&sid=c56c3ba3b9f676c5#%F0%9F%87%A9%F0%9F%87%AA%20FUKIFA%204
+vless://218fd696-e3a2-4c33-b397-a5f13a82969e@84.201.4.252:7443?type=grpc&security=reality&sni=www.telekom.de&fp=firefox&pbk=HQHil8nG-HZlQ0wPWXJpX4VvbrauBlCRH26tu4yVFQ4&sid=bfa2ebf4&serviceName=grpc#%F0%9F%87%B7%F0%9F%87%BA%20FUKIFA%205
