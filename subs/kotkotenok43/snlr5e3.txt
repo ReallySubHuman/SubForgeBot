@@ -1,0 +1,9 @@
+#profile-title: 🐗 Кабан VPN
+#profile-update-interval: 1
+#subscription-userinfo: expire=253402300799; total=0; used=0
+#profile-web-page-url: https://kabanvpn.ru
+#announce: Стабильное подключение, даже при белых списках - @kaban_vpn
+
+vless://#🚫%20Подписка%20заблокирована
+vless://#За%20нарушение%20правил%20проекта
+vless://#Обратитесь%20в%20поддержку
